@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fashionista-bot/static/css/main.3e18473b.chunk.css",
+    "main.js": "/fashionista-bot/static/js/main.997b439d.chunk.js",
+    "main.js.map": "/fashionista-bot/static/js/main.997b439d.chunk.js.map",
+    "runtime-main.js": "/fashionista-bot/static/js/runtime-main.29b5bd26.js",
+    "runtime-main.js.map": "/fashionista-bot/static/js/runtime-main.29b5bd26.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/fashionista-bot/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.de2fe070.chunk.js": "/fashionista-bot/static/js/2.de2fe070.chunk.js",
+    "static/js/2.de2fe070.chunk.js.map": "/fashionista-bot/static/js/2.de2fe070.chunk.js.map",
+    "index.html": "/fashionista-bot/index.html",
+    "precache-manifest.24a75aa8171d6575752ebc2bb074250e.js": "/fashionista-bot/precache-manifest.24a75aa8171d6575752ebc2bb074250e.js",
+    "service-worker.js": "/fashionista-bot/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/fashionista-bot/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.3e18473b.chunk.css.map": "/fashionista-bot/static/css/main.3e18473b.chunk.css.map",
+    "static/js/2.de2fe070.chunk.js.LICENSE.txt": "/fashionista-bot/static/js/2.de2fe070.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29b5bd26.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.de2fe070.chunk.js",
+    "static/css/main.3e18473b.chunk.css",
+    "static/js/main.997b439d.chunk.js"
+  ]
+}
